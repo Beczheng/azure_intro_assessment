@@ -23,7 +23,6 @@
     - **Archive storage:** This service helps store rarely accessed data in a cost-effective manner. For example, it lowers storage costs but the increases access costs. In addition, it automatically encrypts the data.
 
 #### c. How to interact with Azure services using Python:
-- Can run a Python script on Azure batch.
 - Can use Python to develop apps or services that use Azure Files to store file data.
 - Can use client libraries for building apps with Python. The client libraries offer advanced capabilities for table storage.
 
